@@ -7,10 +7,12 @@ Repository to store new Bonita examples
 ------------------------
 You will find some examples about existing connectors in Bonita BPM Studio.
 There is 2 kind of files. One has been developed in Community edition and the other in the Subscription edition:
-  Community-6.x.bos
-  Subscription-6.x.bos
+  Community-x.y.bos
+  Subscription-x.y.bos
 
-**Community-6.2.4.bos**
+Note that you can import Community .bos file into Subscription edition.
+
+**Community-6.2.4.bos and Community-7.0.2.bos**
 > Using Jasper report connector
 
 **Subscription-6.2.4.bos**
